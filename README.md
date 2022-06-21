@@ -42,7 +42,7 @@ For patients, the EHR platform benefits are also evident:
 
 With the medical services area moving towards innovation in a speedy development, it likewise should know about the dangers related with it. History is an observer for occur-rences where these sorts of innovations became inclined to programmers in view of being presented to the web with practically no security system. Despite all the potential benefits that it provides, physicians still have a hard time adopting EHRs.
 
-![alt text](https://github.com/AmarFurqan/AmarFurqan.github.io/blob/main/1.jpg?raw=true)
+![alt text](https://github.com/AmarFurqan/AmarFurqan.github.io/blob/main/1.png?raw=true)
 
 
 ## How EHR software functions – an example:
