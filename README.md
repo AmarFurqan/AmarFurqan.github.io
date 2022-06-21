@@ -11,3 +11,9 @@ I want to add pictures of:
 ![alt text](https://github.com/AmarFurqan/AmarFurqan.github.io/blob/main/0.jpg?raw=true)
 
 
+
+<p align="center">
+  <img src="https://github.com/AmarFurqan/AmarFurqan.github.io/blob/main/1.jpg?raw=true">
+</p>
+
+
