@@ -77,10 +77,13 @@ The statistics shows that the complete worldwide EHR market is supposed to arriv
 EHRs are the subsequent stage in the proceeded with progress of medical care that can reinforce the connection among patients and clinicians. The data, and the idealness and accessibility of it, will empower suppliers to settle on better choices and give better con-sideration.
 
 ## References:
-- Electronic Health Records (Jan 21, 2021). CMS.gov, retrieved from https://www.cms.gov/Medicare/E-Health/EHealthRecords
-- Alexey Chalimov. (Oct 21, 2020) HER systems: Key features, capabilities, and Adoptation tips: Solutions for business, retrieved from https://easternpeak.com/blog/ehr-systems-key-features-capabilities-and-adoption-tips/
-- What are the advantages of electronic health records? (March 8, 2022) HealthIT, re-trieved from, https://www.healthit.gov/faq/what-are-advantages-electronic-health-records
-- Types of HER Systems (August 14,2020). Virtual Care Education, retrieved by https://www.wheel.com/companies-blog/types-of-ehr-sys-tems#:~:text=An%20EHR%2C%20or%20Electronic%20Health,of%20a%20patient's%20care%20record.
-- Dileep Gupta (March 17, 2022) Ways Electronic Health Records will continue to improve in 2022, retrieved from https://appinventiv.com/blog/impact-of-technology-on-ehr/
-- Conor Stewart (Nov 08, 2018 Total EHR market size forecast worldwide 2015-2024: Sta-tista, retrieved from https://www.statista.com/statistics/938799/ehr-market-size-forecast-globally/
-***********************************************************************
+<ul type="circle">
+<li> Electronic Health Records (Jan 21, 2021). CMS.gov, retrieved from https://www.cms.gov/Medicare/E-Health/EHealthRecords </li>
+<li> Alexey Chalimov. (Oct 21, 2020) HER systems: Key features, capabilities, and Adoptation tips: Solutions for business, retrieved from https://easternpeak.com/blog/ehr-systems-key-features-capabilities-and-adoption-tips/ </li>
+<li> What are the advantages of electronic health records? (March 8, 2022) HealthIT, re-trieved from, https://www.healthit.gov/faq/what-are-advantages-electronic-health-records </li>
+<li> Types of HER Systems (August 14,2020). Virtual Care Education, retrieved by https://www.wheel.com/companies-blog/types-of-ehr-sys-tems#:~:text=An%20EHR%2C%20or%20Electronic%20Health,of%20a%20patient's%20care%20record. </li>
+<li> Dileep Gupta (March 17, 2022) Ways Electronic Health Records will continue to improve in 2022, retrieved from https://appinventiv.com/blog/impact-of-technology-on-ehr/ </li>
+<li> Conor Stewart (Nov 08, 2018 Total EHR market size forecast worldwide 2015-2024: Sta-tista, retrieved from https://www.statista.com/statistics/938799/ehr-market-size-forecast-globally/ </li>
+  </ul> 
+  
+ ***********************************************************************
