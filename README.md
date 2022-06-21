@@ -1,5 +1,5 @@
 # EHR system – a telehealth application
-### Blog Piece
+## Blog Piece
  
 Just checking how its all working
 I want to add pictures of:
