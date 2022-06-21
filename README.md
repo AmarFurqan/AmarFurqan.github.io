@@ -13,10 +13,10 @@ The EHR software is a system intended for medical data capture, storage and exch
 ## Types of EHR Systems
 The different types of HER systems have its advantages and disadvantages, depending on a medical practice’s unique needs and requirements.
 
-# 1. Physician-Hosted System
+### 1. Physician-Hosted System
 Physician-Hosted frameworks essentially imply that all information is facilitated on a doc-tor's own servers. This implies that a doctor is liable for buying equipment and program-ming, as well as the proceeded with upkeep and security of the information put away on their servers. An EHR framework facilitated by a doctor at their clinical practice might be useful for bigger practices that can take care of the above expenses of the intricate pro-gramming. Having nearby servers likewise helps accelerate an EHR framework and makes it a more dependable source of information.
 
-# 2. Remotely-Hosted System
+### 2. Remotely-Hosted System
 Remotely-facilitated frameworks shift the capacity of information from the doctor to an outsider. This third party should manage upkeep, data reinforcement, and security. This kind of framework puts the obligation regarding keeping up with information elsewhere next to a solitary doctor or clinical practice. This shift of responsibility might be attractive to smaller practices or any healthcare provider that wants to focus more on collecting the information and not storing it. This kind of framework dispenses with a portion of the IT cerebral pains that can remove a physician's consideration from their patient's considera-tion and prosperity.
 
 ## Advantages of EHR Systems
