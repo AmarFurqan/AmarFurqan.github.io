@@ -1,4 +1,4 @@
-# AmarFurqan.github.io
+# EHR system – a telehealth application
 ### Blog Piece
  
 Just checking how its all working
